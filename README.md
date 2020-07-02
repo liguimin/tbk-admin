@@ -1,29 +1,17 @@
 # vueapp
 
-## Project setup
+## 下载到本地时，初始化项目，下载相关依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开启本地调试服务器
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包命令
 ```
 npm run build
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
